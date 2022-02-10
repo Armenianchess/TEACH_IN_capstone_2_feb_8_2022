@@ -6,9 +6,9 @@ The technology I used for this application was Flask Python Framework, Javascrip
 
 STEPS TO SETUP
 
-Step1: Clone the project \n
-Step2: Create a virtual environment 
-command: python3 -m venv venv
+Step1: Clone the project                    
+Step2: Create a virtual environment              
+command: python3 -m venv venv               
 Step3: Activate the virtual environment
 command: source venv/bin/activate
 Step4: install the libraries
