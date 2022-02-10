@@ -4,8 +4,19 @@ Teachin is an social networking application, that allows teachers to create user
 
 The technology I used for this application was Flask Python Framework, Javascript, Bootstrap, html and css, restful apis, PostgreSQL. 
 
+STEPS TO SETUP
 
-
+Step1: Clone the project
+Step2: Create a virtual environment 
+command: python3 -m venv venv
+Step3: Activate the virtual environment
+command: source venv/bin/activate
+Step4: install the libraries
+command: pip3 install -r requirements.txt
+step5: run the server 
+command: FLASK_ENV = development flask run
+result: the server should now be running, if you 
+look in your terminal you will see port 5000
 
 
 capstone 2 
