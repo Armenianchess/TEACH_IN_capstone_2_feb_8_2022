@@ -9,13 +9,13 @@ STEPS TO SETUP
 Step1: Clone the project                    
 Step2: Create a virtual environment              
 command: python3 -m venv venv               
-Step3: Activate the virtual environment
+Step3: Activate the virtual environment            
 command: source venv/bin/activate
-Step4: install the libraries
+Step4: install the libraries                
 command: pip3 install -r requirements.txt
-step5: run the server 
+step5: run the server                  
 command: FLASK_ENV = development flask run
-result: the server should now be running, if you 
+result: the server should now be running, if you                 
 look in your terminal you will see port 5000
 
 
